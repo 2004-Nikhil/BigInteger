@@ -1,7 +1,7 @@
 
 # BigInteger
 
-Peform basic operation like addition, subtraction, multiplication, division, modulas on positive and negitive BigInteger
+Peform basic operation like addition, subtraction, multiplication, division, modulus on positive and negitive BigInteger
 
 
 
